@@ -6,7 +6,7 @@
   - 🎫 https://www.linkedin.com/in/rohitpatel26/
   - 📧 rohitanp123@gmail.com
   - 📞 +91 7839197439
-![](https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW/fullscreen)
+
 
 <!---
 rohitanp123/rohitanp123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
