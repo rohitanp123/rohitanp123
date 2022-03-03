@@ -6,7 +6,7 @@
   - 🎫 https://www.linkedin.com/in/rohitpatel26/
   - 📧 rohitanp123@gmail.com
   - 📞 +91 7839197439
-
+![](https://github.com/rohitanp123/rohitanp123/blob/main/giphy.gif)
 
 <!---
 rohitanp123/rohitanp123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
