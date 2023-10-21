@@ -1,8 +1,8 @@
 ![](https://github.com/rohitanp123/rohitanp123/blob/main/giphy.gif)
 
-- 👋 Hi, I’m a professional software developer with 2+ yrs of experience.
-- 💞️ I’m interested in javaScript, React and React Native.
-- 🌱 I’m currently learning how to improve the functionality and develop a low code projects.
+- 👋 Hi, I’m a professional software developer with 4+ years of experience.
+- 💞️ I’m interested in JavaScript, React, and React Native.
+- 🌱 I’m currently learning how to improve the functionality and develop a low-code project.
 - 💕 I love to create React Components and beautiful UIs.
 - 📫 To reach me -
   - 🎫 https://www.linkedin.com/in/rohitpatel26/
